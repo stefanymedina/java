@@ -9,6 +9,6 @@ package datos;
  *
  * @author stefanymedina
  */
-public class Conexion {
-    
+public class Conexion { //test - 
+    private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/test?useSSL=false&useTimezone=true&erverTimezone=UTC&allowPublicKeyRetrieval=true";
 }
